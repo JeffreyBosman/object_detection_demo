@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>generated_pic_19.jpg</filename>
+    <path>/Arnand/Documents/GitHub/AgriAI/Augmention/output/generated_pic_19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1424</width>
+        <height>2684</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1302</xmin>
+            <ymin>701</ymin>
+            <xmax>1345</xmax>
+            <ymax>740</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1030</xmin>
+            <ymin>1409</ymin>
+            <xmax>1074</xmax>
+            <ymax>1459</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>698</xmin>
+            <ymin>1755</ymin>
+            <xmax>742</xmax>
+            <ymax>1805</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1034</xmin>
+            <ymin>2331</ymin>
+            <xmax>1077</xmax>
+            <ymax>2370</ymax>
+        </bndbox>
+    </object>
+</annotation>
