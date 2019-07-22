@@ -1,7 +1,7 @@
 <annotation>
     <folder>output</folder>
-    <filename>generated_pic_35.jpg</filename>
-    <path>/Arnand/Documents/GitHub/AgriAI/Augmention/output/generated_pic_35.jpg</path>
+    <filename>generated_pic_8.jpg</filename>
+    <path>C:\Users\Jeffr\OneDrive\Documenten\AgriAI_git\Augmention\output\generated_pic_8.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1195</xmin>
-            <ymin>1316</ymin>
-            <xmax>1239</xmax>
-            <ymax>1361</ymax>
+            <xmin>1034</xmin>
+            <ymin>1565</ymin>
+            <xmax>1077</xmax>
+            <ymax>1604</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -28,10 +28,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>717</xmin>
-            <ymin>769</ymin>
-            <xmax>760</xmax>
-            <ymax>808</ymax>
+            <xmin>355</xmin>
+            <ymin>1712</ymin>
+            <xmax>398</xmax>
+            <ymax>1751</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -39,10 +39,43 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1243</xmin>
-            <ymin>2499</ymin>
-            <xmax>1287</xmax>
-            <ymax>2544</ymax>
+            <xmin>756</xmin>
+            <ymin>40</ymin>
+            <xmax>800</xmax>
+            <ymax>90</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1288</xmin>
+            <ymin>1722</ymin>
+            <xmax>1332</xmax>
+            <ymax>1769</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>585</xmin>
+            <ymin>508</ymin>
+            <xmax>629</xmax>
+            <ymax>558</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1377</xmin>
+            <ymin>1829</ymin>
+            <xmax>1421</xmax>
+            <ymax>1879</ymax>
         </bndbox>
     </object>
 </annotation>

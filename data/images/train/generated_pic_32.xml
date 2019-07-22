@@ -1,7 +1,7 @@
 <annotation>
     <folder>output</folder>
-    <filename>generated_pic_32.jpg</filename>
-    <path>/Arnand/Documents/GitHub/AgriAI/Augmention/output/generated_pic_32.jpg</path>
+    <filename>generated_pic_8.jpg</filename>
+    <path>C:\Users\Jeffr\OneDrive\Documenten\AgriAI_git\Augmention\output\generated_pic_8.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1230</xmin>
-            <ymin>2383</ymin>
-            <xmax>1273</xmax>
-            <ymax>2422</ymax>
+            <xmin>7</xmin>
+            <ymin>2136</ymin>
+            <xmax>50</xmax>
+            <ymax>2175</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -28,10 +28,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>89</xmin>
-            <ymin>765</ymin>
-            <xmax>133</xmax>
-            <ymax>812</ymax>
+            <xmin>542</xmin>
+            <ymin>2396</ymin>
+            <xmax>586</xmax>
+            <ymax>2441</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -39,10 +39,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>467</xmin>
-            <ymin>1215</ymin>
-            <xmax>511</xmax>
-            <ymax>1262</ymax>
+            <xmin>553</xmin>
+            <ymin>2474</ymin>
+            <xmax>597</xmax>
+            <ymax>2521</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -50,10 +50,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>300</xmin>
-            <ymin>904</ymin>
-            <xmax>344</xmax>
-            <ymax>949</ymax>
+            <xmin>623</xmin>
+            <ymin>906</ymin>
+            <xmax>667</xmax>
+            <ymax>956</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -61,10 +61,65 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>564</xmin>
-            <ymin>2150</ymin>
-            <xmax>608</xmax>
-            <ymax>2200</ymax>
+            <xmin>1135</xmin>
+            <ymin>2364</ymin>
+            <xmax>1179</xmax>
+            <ymax>2409</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>868</xmin>
+            <ymin>129</ymin>
+            <xmax>912</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>498</xmin>
+            <ymin>710</ymin>
+            <xmax>542</xmax>
+            <ymax>755</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>155</xmin>
+            <ymin>1767</ymin>
+            <xmax>199</xmax>
+            <ymax>1812</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1204</xmin>
+            <ymin>837</ymin>
+            <xmax>1248</xmax>
+            <ymax>884</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>white_fly</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>127</xmin>
+            <ymin>448</ymin>
+            <xmax>171</xmax>
+            <ymax>493</ymax>
         </bndbox>
     </object>
 </annotation>

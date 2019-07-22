@@ -1,7 +1,7 @@
 <annotation>
     <folder>output</folder>
     <filename>generated_pic_8.jpg</filename>
-    <path>/Arnand/Documents/GitHub/AgriAI/Augmention/output/generated_pic_8.jpg</path>
+    <path>C:\Users\Jeffr\OneDrive\Documenten\AgriAI_git\Augmention\output\generated_pic_8.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,10 +17,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>354</xmin>
-            <ymin>303</ymin>
-            <xmax>398</xmax>
-            <ymax>350</ymax>
+            <xmin>968</xmin>
+            <ymin>1963</ymin>
+            <xmax>1011</xmax>
+            <ymax>2002</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -28,10 +28,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1097</xmin>
-            <ymin>1980</ymin>
-            <xmax>1141</xmax>
-            <ymax>2025</ymax>
+            <xmin>944</xmin>
+            <ymin>1306</ymin>
+            <xmax>988</xmax>
+            <ymax>1351</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -39,10 +39,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>995</xmin>
-            <ymin>2299</ymin>
-            <xmax>1039</xmax>
-            <ymax>2344</ymax>
+            <xmin>1172</xmin>
+            <ymin>1269</ymin>
+            <xmax>1216</xmax>
+            <ymax>1314</ymax>
         </bndbox>
     </object>    <object>
         <name>white_fly</name>
@@ -50,10 +50,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>289</xmin>
-            <ymin>2386</ymin>
-            <xmax>332</xmax>
-            <ymax>2425</ymax>
+            <xmin>825</xmin>
+            <ymin>1284</ymin>
+            <xmax>869</xmax>
+            <ymax>1329</ymax>
         </bndbox>
     </object>
 </annotation>
